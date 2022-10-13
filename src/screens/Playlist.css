@@ -1,0 +1,11 @@
+.playlist__title {
+    padding: 16px 0 16px 16px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    color: #FFFFFFD8;
+}
+
+.playlist__list {
+    display: flex;
+}

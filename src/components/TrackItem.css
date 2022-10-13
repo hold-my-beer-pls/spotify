@@ -1,0 +1,38 @@
+.track_item__cover__img {
+    width: 50px;
+    height: 50px;
+}
+
+.track_item {
+    display: flex;
+    padding: 7px 7px 7px 0;
+    margin: 2px 0;
+    border-color: #181818;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.track_item:hover {
+    border-color: #ffcf2a;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.track_item__cover {
+    margin: 5px 5px 5px 0;
+}
+
+.track_item__description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.track_item__description__title {
+    color: #FFFFFFD8;
+}
+
+.track_item__description__artist {
+    color: #777;
+}

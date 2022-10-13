@@ -1,0 +1,33 @@
+.track_list__info {
+    display: flex;
+}
+
+.track_list__info__description {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+}
+
+.track_list__info__description__name,
+.track_list__info__description__playlist {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.track_list__info__description__name {
+    font-size: 42px;
+    font-weight: 700;
+    margin: 12px 0;
+}
+
+.track_list__text {
+    color: #FFFFFFD8;
+}
+
+.track_list__text_secondary {
+    color: #777;
+}
+
+.track_list__list {
+    margin-top: 12px;
+}
